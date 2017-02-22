@@ -34,7 +34,7 @@ staticman:
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
-  moderation             : true
+  moderation             : false
   path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'message']
   transforms:
