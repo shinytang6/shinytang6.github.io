@@ -11,7 +11,7 @@ Tang Liang, student in Shanghai Jiao Tong University.
 
 ### Resume / 个人简历
 
-* [English Version (Update to Feb, 2017)](resume.pdf)
+
 * [中文版本 (更新至2017年2月)](resume.pdf)
 
 ### Contact / 联系方式
