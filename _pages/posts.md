@@ -3,6 +3,7 @@ layout: archive
 permalink: /posts
 title: "Posts"
 author_profile: true
+comments:  true
 ---
 
 {% include base_path %}
