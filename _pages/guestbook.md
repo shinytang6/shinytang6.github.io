@@ -5,6 +5,7 @@ comments: true
 permalink: /guestbook
 thread: 1
 author_profile: true
+comments:  true
 ---
 
 Look around and have a sit.
