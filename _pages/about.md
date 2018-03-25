@@ -13,7 +13,7 @@ Tang Liang, student in Shanghai Jiao Tong University.
 ### Contact / 联系方式
 <ul class='pager about_ul'>
     <li><a href="http://shinytang6.github.io/">Personal Blog</a> </li>
-    <li><a href="https://cn.linkedin.com/in/hijiangtao">LinkedIn</a> </li>
+    <li><a href="https://www.linkedin.com/in/liang-tang-b27217133/">LinkedIn</a> </li>
     <li><a href="mailto:1074461480@qq.com">EMAIL</a> </li>
     
 </ul>
