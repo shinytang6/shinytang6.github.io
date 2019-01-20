@@ -125,5 +125,5 @@ theme: aircloud
 deploy:
   type: git
   repo: https://github.com/shinytang6/shinytang6.github.io
-  branch: deploy
+  branch: master
 
