@@ -3,15 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: AirCloud Blog
-subtitle: sometimes code， sometimes design
-author: Xiaotao Nie
+title: Liang's Site
+subtitle: lifelong learner
+author: Liang Tang
 language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://niexiaotao.cn/
+url: http://shinytang6.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -20,19 +20,14 @@ permalink_defaults:
 
 # Site settings
 # 网站综合内容设置：
-SEOTitle: AirCloud的博客 | AirCloud's Blog
-email: onlythen@yeah.net
-description: "聂小涛的博客"
-keyword: "腾讯"
+SEOTitle: Liang的博客 | Liang's Blog
+email: shinytang6@gmail.com
+description: "唐亮的博客"
+keyword: ""
 
 # SNS settings
 # 一些社交平台地址，支持以下几种：
-weibo_username:     3286578617
-zhihu_username:     ai-er-lan-xue-da
-github_username:    AirCloud
-twitter_username:   iconie_alloy
-facebook_username:  xiaotao.nie.5
-linkedin_username:  小涛-聂-80964aba
+github_username:    shinytang6
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -43,11 +38,8 @@ sidebar-avatar: img/avatar.jpg      # use absolute URL, seeing it's used in both
 # 友情链接
 friends: [
     {
-        title: "10000H",
-        href: "https://www.10000h.top"
-    },{
-        title: "Xiaotao's Page",
-        href: "https://niexiaotao.com"
+        title: "J.Chen",
+        href: "https://jadechen3.github.io"
     },{
         title: "It helps SEO",
         href: "#"
@@ -65,9 +57,9 @@ comment:
    type: disqus
    script: 'https://airclouds-blog.disqus.com/embed.js'
 
-donate:
-  img: img/donate.jpg
-  content: 感谢鼓励
+#donate:
+#  img: img/donate.jpg
+#  content: 感谢鼓励
 
 # The following content is not recommended to modify
 # 搜索数据文件路径设置，不建议改动：
@@ -133,5 +125,5 @@ theme: aircloud
 deploy:
   type: git
   repo: https://github.com/shinytang6/shinytang6.github.io
-  branch: master
+  branch: deploy
 
